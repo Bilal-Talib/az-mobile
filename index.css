@@ -1,0 +1,26 @@
+.btn{
+    background-color: rgba(255, 166, 0, 0.742)
+    
+}
+.btn:hover{
+    background-color: rgba(255, 166, 0, 0.988);
+    color: white;
+}
+.dabbas{
+    cursor: pointer;
+    background-color: rgba(84, 175, 131, 0.647);
+}
+.dabbas:hover{
+    background-color: rgba(84, 172, 175, 0.916);
+    color: white;
+}
+.brand{
+    
+    margin: 4px 12px;
+}
+
+.submit:hover{
+    border-radius: 16px;
+    cursor: pointer;
+    background-color: rgb(75, 73, 73);
+}
